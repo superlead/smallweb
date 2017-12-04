@@ -1,0 +1,124 @@
+.today_quote{
+	margin-top:20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	font-size: 16px;
+	line-height: 28px;
+	border:5px solid #e9e9e9;
+}
+.today_quote span{
+	padding-right: 10px;
+	float: right;
+	font-weight: bold;
+}
+.group{
+	margin: 5px 0;
+	padding-bottom: 5px;
+	border: 1px solid #e9e9e9;
+}
+.group .col-md-4{
+	padding: 0 5px;
+}
+
+.group h2{
+	font-size: 16px;
+	margin-top: 10px;
+	padding-bottom: 8px;
+	padding-left: 5px;
+	border-bottom: 1px solid #e9e9e9;
+}
+.group .subject{
+	border-left: 1px solid #e9e9e9;
+	border-right: 1px solid #e9e9e9;
+}
+.group ul{
+	display: block;
+    padding-left: 6px;
+    margin-bottom: 0px;
+    list-style-type: none;
+}
+.people ul li{
+	width: 50%;
+	float: left;
+	line-height: 1em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px dotted #ddd;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.subject ul li{
+	width: 33.3%;
+	float: left;
+	line-height: 1em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px dotted #ddd;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.topic ul li{
+	width: 33.3%;
+	float: left;
+	line-height: 1em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px dotted #ddd;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.quotes{
+	margin: 5px 0;
+	padding-bottom: 5px;
+	border: 1px solid #e9e9e9;
+}
+.quotes h2{
+	font-size: 16px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	border-bottom: 1px solid #e9e9e9;
+}
+.quotes ul{
+	display: block;
+    padding-left: 6px;
+    margin-bottom: 0px;
+    list-style-type: none;
+}
+.recent-quotes{
+	border-right: 1px solid #e9e9e9;
+}
+.quote-item{
+	display: inline-block;
+	width: 100%;
+	padding: 15px;
+	padding-bottom: 0;
+	border-bottom: 1px solid #e9e9e9;
+}
+.quote-item .content{
+	display: inline;
+	line-height: 24px;
+}
+.quote-item span{
+	float: right;
+	display: inline-block;
+}
+.quote-meta{
+	width: 100%;
+	margin-top:3px; 
+	padding-top: 8px;
+	border-top: 1px dotted #e9e9e9;
+	display: inline-block;
+}
+.quote-meta span{
+	display: inline-block;
+	float: left;
+	margin-right: 5px;
+}
+.quote-meta li{
+	display: list-item;
+	font-size: 12px;
+	float: left;
+    margin-right: 12px;
+    padding: 0 5px;
+}
