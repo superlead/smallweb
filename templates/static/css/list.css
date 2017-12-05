@@ -1,0 +1,146 @@
+.list-main{
+	border: 1px solid #e9e9e9;
+}
+.quote-list{
+	margin: 5px 0;
+	padding-bottom: 5px;
+	padding: 0 5px;
+	border-right: 1px solid #e9e9e9;
+}
+.quote-list ul{
+	display: block;
+    padding-left: 6px;
+    margin-bottom: 0px;
+    list-style-type: none;
+}
+.quote-item{
+	display: inline-block;
+	width: 100%;
+	padding: 15px;
+	padding-bottom: 0;
+	border-bottom: 1px solid #e9e9e9;
+}
+.content p{
+    text-align: justify;
+	font-size: 15px;
+	line-height: 28px;
+}
+.quote-ad{
+	padding: 5px 0;
+	border-bottom: 1px solid #e9e9e9;
+}
+.quote-ad img{
+	padding-right: 5px;
+	width: 100%;
+}
+.quote-item .content{
+	display: inline;
+	line-height: 24px;
+}
+.quote-item span{
+	float: right;
+	display: inline-block;
+}
+.quote-meta{
+	width: 100%;
+	margin-top:3px; 
+	padding-top: 8px;
+	border-top: 1px dotted #e9e9e9;
+	display: inline-block;
+}
+.quote-meta span{
+	display: inline-block;
+	float: left;
+	margin-right: 5px;
+}
+.quote-meta li{
+	display: list-item;
+	font-size: 12px;
+	float: left;
+    margin-right: 12px;
+    padding: 0 5px;
+}
+.sidebar ul{
+	display: block;
+    padding: 0 20px;
+    margin-bottom: 0px;
+    list-style-type: none;
+}
+.sidebar h2{
+	font-size: 16px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	border-bottom: 1px solid #e9e9e9;
+}
+.sidebar .sidebar-item{
+    word-wrap: break-word;
+    text-align: justify;
+    font-size: 13px;
+    border-bottom: 1px dotted #666;
+    margin-bottom: 5px;
+}
+.sidebar .sidebar-item p{
+	line-height: 24px;
+	margin-bottom: 3px;
+}
+#read-more{
+	float: right;
+}
+.sidebar-quote-meta{
+	width: 100%;
+	margin-top:3px; 
+	padding-top: 5px;
+	border-top: 1px dotted #e9e9e9;
+	display: inline-block;
+}
+.sidebar-quote-meta span{
+	display: inline-block;
+	float: left;
+	margin-right: 5px;
+}
+.sidebar-quote-meta li{
+	display: list-item;
+	font-size: 12px;
+	float: left;
+    margin-right: 12px;
+    padding: 0 5px;
+}
+/*book-list style*/
+.list-intro{
+	padding: 10px;
+	border-bottom: 1px solid #ddd;
+}
+.list-image img{
+	width: 100%;
+	height: 160px;
+}
+.list-ad img{
+	width: 100%;
+	height: 160px;
+}
+.list-about{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.list-about h1{
+	font-size: 18px;
+	margin:5px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #ddd;
+}
+.list-about h1 a{
+	color: #777;
+}
+.list-about h1 small{
+	margin-left: 5px;
+    font-size: 50%;
+}
+.list-about p{
+	padding: 5px 8px;
+	margin-bottom: 10px;
+	font-size: 14px;
+	line-height: 28px;
+	text-align: justify;
+}
+
